@@ -1,0 +1,6 @@
+*/AspNetPractice/bin/*
+*/AspNetPractice/obj/*
+.vs/
+
+# Log file
+*.log
